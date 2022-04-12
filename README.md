@@ -1,1 +1,1 @@
-# SOLIDITY-20
+# Solidity-ERC20
